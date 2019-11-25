@@ -2,7 +2,9 @@
 # 2019-ITCS473-SodaAndTheBoys
 ### Automated Web Testing using Selenium
 
-The website that we tested is [Links](https://thaiortho.org/). 
+The website which we tested is `<link>` : <https://thaiortho.org/> thats about The Thai Association of Orthodontists.
+![](https://thaiortho.org/wp-content/uploads/2019/06/svg-logo-thaao.svg)
+
 Which function of the website that the test covers? For example, this test case checks the login of the website using valid/invalid inputs.
 What is the expected outputs of the tests?
 
