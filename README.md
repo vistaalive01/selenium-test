@@ -1,6 +1,6 @@
 "# selenium-test" 
 # 2019-ITCS473-SodaAndTheBoys
-#### Automated Web Testing using Selenium
+### Automated Web Testing using Selenium
 
 
 Which function of the website that the test covers? For example, this test case checks the login of the website using valid/invalid inputs.
