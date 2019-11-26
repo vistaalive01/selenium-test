@@ -26,6 +26,26 @@ What is the expected outputs of the tests?
 **Test Case #1** : Get page title text to find whether access correct webpage 
 This test checks the accessing webpage by checking the page title.
 
+public static void accessHomepage() {
+			WebDriver driver = new ChromeDriver();
+			String baseUrl = "https://thaiortho.org/";
+			String expectedTitleHome = "สมาคมทันตแพทย์จัดฟันแห่งประเทศไทย";
+			String actualTitleHome = "";
+
+			driver.get(baseUrl);
+
+			// get the actual value of the title
+			WebElement elementHome = driver.findElement(By.xpath(page_title_home));
+			actualTitleHome = elementHome.getText();
+
+			if (actualTitleHome.contentEquals(expectedTitleHome)) {
+				System.out.println("Test 1 Passed!");
+			} else {
+				System.out.println("Test 1 Failed");
+			}
+
+			driver.close();
+		}
 
 
 
