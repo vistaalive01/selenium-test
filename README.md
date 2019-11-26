@@ -23,10 +23,10 @@ There are 12 test cases that tested this website as list below:
 Which function of the website that the test covers? For example, this test case checks the login of the website using valid/invalid inputs.
 What is the expected outputs of the tests?
 
-**Test Case #1** : Get page title text to find whether access correct webpage 
+**Test Case #1** : Get page title text to find whether access correct webpage.
 This test checks the accessing webpage by checking the page title.
 
-public static void accessHomepage() {
+	public static void accessHomepage() {
 			WebDriver driver = new ChromeDriver();
 			String baseUrl = "https://thaiortho.org/";
 			String expectedTitleHome = "สมาคมทันตแพทย์จัดฟันแห่งประเทศไทย";
