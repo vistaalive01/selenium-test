@@ -12,8 +12,8 @@ There are 12 test cases that tested this website as list below:
 4. Search by inputting Country into search box then appears the error alert
 5. Access Facebook Page 
 6. Access Youtube Page
-7. Access the Category page
-8. Make an Online Payment
+7. Access Search Blog Page
+8. Access the Category page
 9. Payment Page Test
 10. Login Page Test
 11. Share facebook Test
@@ -38,15 +38,15 @@ Expected Output: The error must be alert "There was a problem with your submissi
 
 **Test Case #5** : Access Facebook Page  
 Description: This test checks that the Facebook button can access their own Facebook page correctly or not.  
-Expected Output: The output must access the Facebook page names "หมอจัดฟันไทย - หน้าหลัก | Facebook". 
+Expected Output: The output page must access the Facebook page names "หมอจัดฟันไทย - หน้าหลัก | Facebook". 
 
 **Test Case #6** : Access Youtube Page  
 Description: This test checks that the Youtube button can access their own Youtube correctly or not.  
-Expected Output: The output must access the Facebook page names "หมอจัดฟันไทย - YouTube". 
+Expected Output: The output page must access the Facebook page names "หมอจัดฟันไทย - YouTube". 
 
-**Test Case #7** : Access the Category page  
-Description:
-Expected Output: 
+**Test Case #7** : Access Search Blog Page
+Description: This test checks the result of input which is "การจัดฟันคืออะไร".
+Expected Output: The output page must access the page that contain the result of searching.
 
 **Test Case #8** : Make an Online Payment  
 Description:
