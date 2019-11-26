@@ -2,7 +2,7 @@
 # 2019-ITCS473-SodaAndTheBoys
 ### Automated Web Testing using Selenium
 
-The website which we tested is `<link>` : <https://thaiortho.org/> thats about The Thai Association of Orthodontists.
+The website which we tested is https://thaiortho.org/ thats about The Thai Association of Orthodontists.
 
 There are 12 test cases that tested this website as list below:
                 
@@ -57,11 +57,11 @@ Description: The test checks that the Payment button can be use for make a payme
 Expected Output: The output page must contain text which is "CLICK HERE TO BEGIN CREDIT CARD ONLINE PAYMENT".  
 
 **Test Case #10** : Login Page Test  
-Description: 
-Expected Output: 
+Description: The test checks that the login of the website using invalid account.
+Expected Output: The output must show the error message "Unknown username. Check again or try your email address.".
 
 **Test Case #11** : Share facebook Test  
-Description: 
+Description: The test checks that the content can be share on Facebook directly via Facebook pop-up.  
 Expected Output: The output pop-up must show the title as "Facebook".  
 
 **Test Case #12** : Download Article Test  
