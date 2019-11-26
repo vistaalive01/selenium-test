@@ -13,8 +13,8 @@ There are 12 test cases that tested this website as list below:
 5. Access the Facebook page from Thaiortho.org website
 6. Access the Youtube channel from Thaiortho.org website
 7. Access the Category page
-8.
-9.
+8. Make a Online Payment
+9. 
 10.
 11.
 12. 
