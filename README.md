@@ -48,24 +48,24 @@ Expected Output: The output page must access the Facebook page names "หมอ�
 Description: This test checks the result of input which is "การจัดฟันคืออะไร".  
 Expected Output: The output page must access the page that contain the result of searching.
 
-**Test Case #8** : Access Category Page 
-Description: This test checks the 
+**Test Case #8** : Access Category Page   
+Description: This test checks that can access the "สาระน่ารู้" page correctly or not.  
 Expected Output: The output page must access the page names "สาระน่ารู้".
 
 **Test Case #9** : Payment Page Test  
-Description:
-Expected Output: 
+Description: The test checks that the Payment button can be use for make a payment or not.  
+Expected Output: The output page must contain text which is "CLICK HERE TO BEGIN CREDIT CARD ONLINE PAYMENT".  
 
 **Test Case #10** : Login Page Test  
-Description:
+Description: 
 Expected Output: 
 
 **Test Case #11** : Share facebook Test  
-Description:
-Expected Output: 
+Description: 
+Expected Output: The output pop-up must show the title as "Facebook".  
 
 **Test Case #12** : Download Article Test  
-Description:
-Expected Output: 
+Description: This test checks that the article can be download correctly.  
+Expected Output: The output must access "https://thaiortho.org/wp-content/uploads/2019/07/Cleft-ebook.pdf".  
 
 
