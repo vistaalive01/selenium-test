@@ -44,13 +44,13 @@ Expected Output: The output page must access the Facebook page names "หมอ�
 Description: This test checks that the Youtube button can access their own Youtube correctly or not.  
 Expected Output: The output page must access the Facebook page names "หมอจัดฟันไทย - YouTube". 
 
-**Test Case #7** : Access Search Blog Page
-Description: This test checks the result of input which is "การจัดฟันคืออะไร".
+**Test Case #7** : Access Search Blog Page  
+Description: This test checks the result of input which is "การจัดฟันคืออะไร".  
 Expected Output: The output page must access the page that contain the result of searching.
 
-**Test Case #8** : Make an Online Payment  
-Description:
-Expected Output: 
+**Test Case #8** : Access Category Page 
+Description: This test checks the 
+Expected Output: The output page must access the page names "สาระน่ารู้".
 
 **Test Case #9** : Payment Page Test  
 Description:
