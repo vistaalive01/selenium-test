@@ -14,10 +14,10 @@ There are 12 test cases that tested this website as list below:
 6. Access the Youtube channel from Thaiortho.org website
 7. Access the Category page
 8. Make a Online Payment
-9. 
-10.
-11.
-12. 
+9. Payment Page Test
+10. Login Page Test
+11. Share facebook Test
+12. Download Article Test
 
 
 Which function of the website that the test covers? For example, this test case checks the login of the website using valid/invalid inputs.
@@ -47,6 +47,7 @@ What is the expected outputs of the tests?
 		}
 
 Expected Output: The page title of accessing page must names "สมาคมทันตแพทย์จัดฟันแห่งประเทศไทย"
+Actual Output: 
 
 
 
