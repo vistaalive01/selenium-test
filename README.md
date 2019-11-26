@@ -24,7 +24,6 @@ Which function of the website that the test covers? For example, this test case 
 What is the expected outputs of the tests?
 
 **Test Case #1** : Get page title text to find whether access correct webpage.
-This test checks the accessing webpage by checking the page title.
 
 	public static void accessHomepage() {
 			WebDriver driver = new ChromeDriver();
@@ -46,6 +45,8 @@ This test checks the accessing webpage by checking the page title.
 
 			driver.close();
 		}
+
+Expected Output: The page title of accessing page must names "สมาคมทันตแพทย์จัดฟันแห่งประเทศไทย"
 
 
 
