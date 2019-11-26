@@ -57,7 +57,7 @@ Description: The test checks that the Payment button can be use for make a payme
 Expected Output: The output page must contain text which is "CLICK HERE TO BEGIN CREDIT CARD ONLINE PAYMENT".  
 
 **Test Case #10** : Login Page Test  
-Description: The test checks that the login of the website using invalid account.
+Description: The test checks that the login of the website using invalid account.  
 Expected Output: The output must show the error message "Unknown username. Check again or try your email address.".
 
 **Test Case #11** : Share facebook Test  
